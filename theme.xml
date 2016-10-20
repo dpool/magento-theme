@@ -1,0 +1,5 @@
+<!-- app/design/frontend/<Vendor>/<Theme>/theme.xml -->
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+    <title>dpool: magento</title>
+    <parent>Magento/luma</parent>
+</theme>
