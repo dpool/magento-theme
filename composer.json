@@ -11,6 +11,12 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
+  "repositories": [
+  {
+      "type": "composer",
+      "url": "https://repo.magento.com/"
+    }
+  ],
   "autoload": {
     "files": [
       "registration.php"
